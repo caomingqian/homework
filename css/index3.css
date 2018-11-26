@@ -35,7 +35,6 @@ p{
 .navbar-float{  
     width: 100%;
     position: fixed;
-    bottom: 0;
     background: #a2dbf9;
 }
 .float{
